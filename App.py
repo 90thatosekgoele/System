@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 29 10:25:13 2025
@@ -20,6 +19,7 @@ number = st.slider("pick a number", 1, 100)
 st.write(f"You picked: {number}")
          
 # My Plot of data
+
          
 
 import streamlit as st
@@ -37,7 +37,7 @@ st.write("The Fourth Industrial Revolution Thinking has \n"
          "enabled a transdisciplinary approach, to push the envelope of creativity through:\n"
          "Computational thinking, Engineering thinking, Mathematical thinking, Quantum thinking , and the Art and Science of thinking.\n"
          "Such thinking, through knowledge mutation is to push the envelope of design of high-performance systems and energy-efficient computing power.")
-st.write("By design of high-performance systems, our national grid through NICIS, NITHeCS, SKA, NERSA and NECSA we shall harmonise intelligest systems to effectively and efficiently improve computing speed and infrastructure network. The drivers of Artificial Intelligence and Computational Intelligence methods, are reengineering conventional systems and constructing robust smart grid systems that are self-organising. ")
+st.write("By design of high-performance systems, our national grid through NICIS, NITHeCS, SKA, NERSA and NECSA we shall harmonise intelligest systems to effectively and efficiently improve computing speed and infrastructure network. The drivers of Artificial Intelligence and Computational Intelligence methords, are reengineering conventional systems and constructing robust smart grid systems that are self-organising. ")
 
 # Display basic profile information
 st.header("Researcher Overview")
@@ -78,7 +78,6 @@ st.header("Contact Information")
 email = "thato.malaisha@gmail.com"
 st.write(f"You can reach {name} at {email}.")
 st.write("")
-
 
 import streamlit as st
 import pandas as pd
@@ -206,5 +205,5 @@ elif menu == "STEM Data Explorer":
 elif menu == "Contact":
     # Add a contact section
     st.header("Contact Information")
-    email = "thato.malaisha@gmail.com"
+    email = "jane.doe@example.com"
     st.write(f"You can reach {name} at {email}.")
