@@ -36,7 +36,7 @@ st.write("The Fourth Industrial Revolution Thinking has \n"
          "enabled a transdisciplinary approach, to push the envelope of creativity through:\n"
          "Computational thinking, Engineering thinking, Mathematical thinking, Quantum thinking , and the Art and Science of thinking.\n"
          "Such thinking, through knowledge mutation is to push the envelope of design of high-performance systems and energy-efficient computing power.")
-st.write("By design of high-performance systems, our national grid through NICIS, NITHeCS, SKA, NERSA and NECSA we shall harmonise intelligest systems to effectively and efficiently improve computing speed and infrastructure network. The drivers of Artificial Intelligence and Computational Intelligence methords, are reengineering conventional systems and constructing robust smart grid systems that are self-organising. ")
+st.write("By design of high-performance systems, our national grid through NICIS, NITHeCS, SKA, NERSA and NECSA we shall harmonise intelligest systems to effectively and efficiently improve computing speed and infrastructure network. The drivers of Artificial Intelligence and Computational Intelligence methods, are reengineering conventional systems and constructing robust smart grid systems that are self-organising. ")
 
 # Display basic profile information
 st.header("Researcher Overview")
